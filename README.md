@@ -54,11 +54,11 @@ for i in range(n-2,-1,-1):
 
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end=' ')
-   
     ```
+    
 ## Output:
 
-![GE](https://user-images.githubusercontent.com/118889454/212461869-ba3ffcd4-c175-4612-b898-099e1784ad5a.png)
+![GE](https://user-images.githubusercontent.com/118889454/212462020-8779e8c8-45ed-4415-87b7-9ae18bbd7400.png)
 
 ## Result:
 
