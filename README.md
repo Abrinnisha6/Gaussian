@@ -17,8 +17,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. End the program. 
 
 ## Program:
-
-
+```
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: ABRIN NISHA A
 RegisterNumber:22008695
@@ -81,6 +80,7 @@ for i in range(n-2,-1,-1):
 
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end=' ')
+```
 
 ## Output:
 ![](o1.png)
